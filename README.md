@@ -16,6 +16,11 @@
 python tests.py # может понадобиться вызов python3 вместо python, зависит от настроек операционной системы
 ```
 
+Пример импорта скрипта:
+```from quadratic_equation import get_roots
+get_roots(1, 3, 6)
+```
+
 Запуск на Windows происходит аналогично.
 
 # Цели проекта
