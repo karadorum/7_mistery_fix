@@ -17,7 +17,7 @@ python tests.py # может понадобиться вызов python3 вме�
 ```
 
 Пример импорта скрипта:
-```
+```python
 from quadratic_equation import get_roots
 
 get_roots(1, 3, 6)
